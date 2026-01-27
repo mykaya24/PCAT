@@ -1,0 +1,28 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT photo app",
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "homepage": "https://github.com/mykaya24/PCAT#readme",
+  "bugs": {
+    "url": "https://github.com/mykaya24/PCAT/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykaya24/PCAT.git"
+  },
+  "license": "ISC",
+  "author": "Muhammed Yalçınkaya",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
